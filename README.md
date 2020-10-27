@@ -1,5 +1,11 @@
-# Sakila-Relational-Database-Analysis
-Introduction
+# Date created
+ 27-10-2020
+
+#Project Title
+ Sakila-Relational-Database-Analysis
+ 
+#Introduction
+
 In this project, we have queried the Sakila DVD Rental database. The Sakila Database holds information about a company that rents movie DVDs.
 For this project, we have queried the database to gain an understanding of the customer base, such as what the patterns in movie watching are across different customer groups, how they compare on payment earnings, and how the stores compare in their performance.
 For assistance in the queries, the schema for the DVD Rental database was used as given in the dvd-rental-erd.pdf.
@@ -29,3 +35,6 @@ Question 4
 We want to find out how the two stores compare in their count of rental orders during every month for all the years we have data for.
 Write a query that returns the store ID for the store, the year and month and the number of rental orders each store has fulfilled for that month. 
 Your table should include a column for each of the following: year, month, store ID and count of rental orders fulfilled during that month.
+
+# Credit
+@Udacity 
