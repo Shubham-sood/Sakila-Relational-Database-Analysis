@@ -37,5 +37,5 @@ We want to find out how the two stores compare in their count of rental orders d
 Write a query that returns the store ID for the store, the year and month and the number of rental orders each store has fulfilled for that month. 
 Your table should include a column for each of the following: year, month, store ID and count of rental orders fulfilled during that month.
 
-# Credit
+# Credits
 @Udacity 
